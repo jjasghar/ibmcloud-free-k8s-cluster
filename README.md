@@ -21,6 +21,12 @@ set them accordingly, otherwise you'll see quite a few come in when the run
 You will also need an APK-KEY, which is under "Access (IAM)" on your IBM Cloud
 account.
 
+Or:
+
+```bash
+ibmcloud iam api-key-create MyKey -d "this is my API key" --file key_file
+```
+
 ## Usage
 
 Create:
