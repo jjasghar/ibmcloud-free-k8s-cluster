@@ -41,6 +41,14 @@ Delete:
 
 **Note**: If you don't name the cluster, it will default to `mycluster-free`.
 
+## Let's Encrypt
+
+Thanks to [Tim Robinson](https://github.com/timroster) he has figured out how to
+add Let's Encrypt Valid Certs to our free Kubernetes Clusters.
+
+Check out [this gist](https://gist.github.com/timroster/ad6b915a46a831ee42aae7fc1676e4a3)
+for the how-to.
+
 ## License & Authors
 
 If you would like to see the detailed LICENCE click [here](./LICENCE).
