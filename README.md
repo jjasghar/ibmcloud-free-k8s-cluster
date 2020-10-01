@@ -51,7 +51,7 @@ for the how-to.
 
 ## License & Authors
 
-If you would like to see the detailed LICENCE click [here](./LICENCE).
+If you would like to see the detailed LICENSE click [here](./LICENSE).
 
 - Author: JJ Asghar <awesome@ibm.com>
 
